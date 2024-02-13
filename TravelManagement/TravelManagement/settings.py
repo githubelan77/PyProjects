@@ -87,7 +87,6 @@ DATABASES = {
         'HOST': 'localhost',  # localhost means local server
         'PORT': '5433',
     }
-
 }
 
 # Password validation
